@@ -85,7 +85,7 @@ Isi variabel berikut di `.env.local`:
 | `NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME` | Upload | Cloud name Cloudinary |
 | `CLOUDINARY_API_KEY` | Upload | API key Cloudinary |
 | `CLOUDINARY_API_SECRET` | Upload | API secret Cloudinary |
-| `NEXT_PUBLIC_WHATSAPP_NUMBER` | Ya | Format `62` + 8–15 digit, contoh `6281234567890` |
+| `NEXT_PUBLIC_WHATSAPP_NUMBER` | Ya | Format `62` + 8–15 digit, contoh `62859121494481` |
 | `NEXT_PUBLIC_SITE_URL` | Ya | URL publik, contoh `https://prelovedsaerawatt.com` |
 | `DEMO_MODE` | Tidak | `true` untuk katalog lokal + login cookie demo |
 | `NEXT_PUBLIC_DEMO_MODE` | Tidak | Sisi client dari mode demo |
