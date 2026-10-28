@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125">
+  <rect width="900" height="1125" fill="#EFE8DC"/>
+  <path d="M450 420v90m0 0c-34 0-60 26-60 58 0 26 16 44 38 53l250 144c33 19 19 60-18 60H240c-37 0-51-41-18-60l250-144c22-9 38-27 38-53 0-32-26-58-60-58Z" fill="none" stroke="#8C4A32" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" opacity=".55"/>
+  <text x="450" y="820" text-anchor="middle" font-family="Georgia, serif" font-size="34" fill="#6B6158">Foto segera hadir</text>
+</svg>
